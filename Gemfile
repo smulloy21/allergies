@@ -6,4 +6,4 @@ gem('rspec')
 gem('capybara')
 gem('pry')
 
-ruby '2.2.0'
+ruby '2.2.2'
