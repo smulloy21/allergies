@@ -10,15 +10,15 @@ link to app on heroku: https://allergy-score.herokuapp.com/
 
 _Given the input of an allergy score (0-255), the app will tell what the subject is allergic to. Allergy scores are determined by:_
 
-_allergen     score_
-* _eggs         1_
-* _peanuts      2_
-* _shellfish    4_
-* _strawberries 8_
-* _tomatoes     16_
-* _chocolate    32_
-* _pollen       64_
-* _cats         128_
+_allergen - score_
+* _eggs - 1_
+* _peanuts - 2_
+* _shellfish - 4_
+* _strawberries - 8_
+* _tomatoes - 16_
+* _chocolate - 32_
+* _pollen - 64_
+* _cats - 128_
 
 
 ## Setup
